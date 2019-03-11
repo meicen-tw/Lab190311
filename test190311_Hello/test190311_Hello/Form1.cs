@@ -21,5 +21,10 @@ namespace test190311_Hello
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
